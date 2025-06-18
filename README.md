@@ -15,9 +15,13 @@
 
 ## Data Analyst
 1. Descriptive statistics:
+   
    a. Perform a comprehensive statistical summary to uncover key patterns and trends in the dataset
+   
    b. Indetify outliers and distributional properties to ensure data consistency and reliability before further analysis
-2. Hypothesis Testing Using t-test
+   
+3. Hypothesis Testing Using t-test
+   
    Conduct a two sample t-test to evaluate the statistical significance of differences between two groups or conditions based on the clients business question
    
    Scenario: Whether there is relationship between delivery time and order status (Completed | Returned)
