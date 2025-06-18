@@ -25,7 +25,9 @@
    Conduct a two sample t-test to evaluate the statistical significance of differences between two groups or conditions based on the clients business question
    
    Scenario: Whether there is relationship between delivery time and order status (Completed | Returned)
+   
    H0      : Delivery time does not affect whether an order is returned.
+   
    H1      : Orders with longer delivery times are more likely to be returned.
 
    Based on the results of the t-Test: Two-Sample Assuming Unequal Variances, the p-value (P(T<=t) two-tail) was found to be less than the alpha level of 0.05.
