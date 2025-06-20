@@ -50,4 +50,27 @@
 3. Create chart: Add the necessary chart to visualize the KPIs and data insight
 4. Add slicers: Insert slicer for interactive filtering of data within the dashboard
 
+## Business Insight
 
+Penjualan dari Januari 2024 - Desember 2025
+
+1. 📈 KPI
+   - Sales Revenue: $775.526
+   - Total Cost: $503.933
+   - Net Profit: $271.593
+   - Total Orders: 561
+   💡 Profit margin tetap terjaga meskipun ada persaingan ketat dan fluktuasi penjualan sepanjang tahun.
+
+2. 📅 Monthly Sales Trends
+   - Penjualan tertinggi terjadi di Desember – kemungkinan karena promosi akhir tahun.
+   - Februari, Maret, Mei, dan September cenderung rendah – dapat menjadi fokus peningkatan.
+   💡 Rancang strategi promosi untuk bulan-bulan dengan penjualan rendah.
+   
+3. 🌎 Geographic Performance
+   - Nigeria dan Australia mendominasi pendapatan global.
+   - Negara seperti China dan United Kingdom (UK) menunjukkan potensi pertumbuhan.
+   💡 Perusahaan sebaiknya memperluas jangkauan bisnis (ekspansi) dan meningkatkan pangsa pasar (penetrasi) di negara-negara yang sedang berkembang ekonominya
+      (misalnya: Nigeria, Brazil, dll.).
+   
+  
+4. 
