@@ -1,0 +1,84 @@
+##Debug VBA
+
+#VBA data entry form
+Sub Submit()
+'
+' Submit Macro
+'
+
+'
+Application.ScreenUpdating = False
+    Range("N8:W8").Select
+    Selection.Copy
+    Range("N15").Select
+    Selection.PasteSpecial Paste:=xlPasteValues, Operation:=xlNone, SkipBlanks _
+        :=False, Transpose:=False
+    Range("Q15:R15").Select
+    Application.CutCopyMode = False
+    Selection.NumberFormat = "m/d/yyyy"
+    Range("N15:W15").Select
+    Selection.Copy
+   Sheets("Retail Store Sales").Select
+Dim lastRow As Long
+lastRow = Sheets("Retail Store Sales").Cells(Rows.Count, "A").End(xlUp).Row + 1
+Range("A" & lastRow).PasteSpecial Paste:=xlPasteValues
+    Sheets("Sales Form").Select
+    Range("E7").Select
+    Application.CutCopyMode = False
+    ActiveCell.FormulaR1C1 = ""
+    Range("E9").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("E11").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("E13").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("E15").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("H7").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("H9").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("H11").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("H13").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("H15").Select
+    ActiveCell.FormulaR1C1 = ""
+    Range("A6").Select
+
+    Application.ScreenUpdating = True
+
+    ' Success message popup
+    MsgBox "Submission successful!", vbInformation, "Confirmation"
+
+End Sub
+
+
+
+#VBA refresh 
+Sub refreshsmooth()
+'
+' refreshsmooth Macro
+'
+
+'
+    Application.ScreenUpdating = False
+
+    ' Hapus semua filter slicer
+    Dim sc As SlicerCache
+    For Each sc In ThisWorkbook.SlicerCaches
+        sc.ClearManualFilter
+    Next sc
+
+    ' Refresh Pivot Cache (lebih cepat dari RefreshTable)
+    Sheets("Pivot Tabel").PivotTables("KPI1").PivotCache.refresh
+
+    ' Kembali ke dashboard
+    Sheets("Dashboard").Activate
+    Sheets("Dashboard").Range("B4").Select
+
+    Application.ScreenUpdating = True
+
+End Sub
+
+
