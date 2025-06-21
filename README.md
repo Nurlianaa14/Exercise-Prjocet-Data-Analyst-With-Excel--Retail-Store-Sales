@@ -90,7 +90,7 @@ Sales from January 2024 – December 2025
      
    💡 Ensure digital payment system integration remains optimal.
 
-6. 📅 Weekly Revenue Trends
+6. 📅 Daily Revenue Trends
    - Wednesday and Friday have the highest daily revenue
    - Tuesday is the slowest — a good time for customer education or promotions
      
