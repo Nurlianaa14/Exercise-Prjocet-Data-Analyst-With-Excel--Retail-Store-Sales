@@ -54,6 +54,9 @@
 
 Sales from January 2024 – December 2025
 
+<img width="758" alt="Screenshot 2025-06-20 211030" src="https://github.com/user-attachments/assets/f6d1b3d1-1265-4818-9212-2d8068e8cf8c" />
+
+
 1. 📈 KPI
    - Sales Revenue: $775,526
    - Total Cost: $503,933
