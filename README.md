@@ -69,7 +69,7 @@ Sales from January 2024 – December 2025
    - Highest sales occurred in December – likely due to year-end promotions
    - February, March, May, and September tend to be lower – these can be areas of improvement
      
-   💡 Design promotional strategies for months with lower sales.
+   💡 Design promotional strategies for months with lower sales.Design seasonal promotional campaigns, limited-time discounts, or new product launches specifically for these months to stimulate demand.
 
 3. 🌎 Geographic Performance
    - Nigeria and Australia dominate global revenue
@@ -82,7 +82,7 @@ Sales from January 2024 – December 2025
    - Apparel and Groceries are stable and cost-efficient
    - Home Decor is the lowest-performing category
      
-   💡 Prioritize product development and campaigns in high-profit categories.
+   💡 Prioritize product development and campaigns in high-profit categories. Reevaluate the Home Decor category – consider rebranding, bundling, or even discontinuation if the profit margin is too low.
 
 5. 💳 Payment Method Insight
    - Customers prefer Bank Transfer (30%) and Mobile Money (26%)
@@ -94,10 +94,10 @@ Sales from January 2024 – December 2025
    - Wednesday and Friday have the highest daily revenue
    - Tuesday is the slowest — a good time for customer education or promotions
      
-   💡 Ensure digital payment system integration remains optimal.
+   💡 Schedule promotional launches or product education campaigns on Tuesdays to boost engagement. Leverage Wednesdays and Fridays as peak days with exclusive offers.
 
 7. 🚨 Order Completion & Returns
    - 52% of orders are completed, while 48% are returned — a very high rate
      
-   💡 Evaluate product quality, shipping process, and customer communication.
+   💡 Evaluate product quality and the shipping process, ensure product descriptions on sales platforms are accurate, and improve customer service to reduce dissatisfaction that leads to returns.
 
