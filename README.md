@@ -59,6 +59,7 @@ Sales from January 2024 – December 2025
    - Total Cost: $503,933
    - Net Profit: $271,593
    - Total Orders: 561
+     
    💡 Profit margin remains stable despite intense competition and fluctuating sales throughout the year.
 
 2. 📅 Monthly Sales Trends
