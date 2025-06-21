@@ -65,30 +65,36 @@ Sales from January 2024 – December 2025
 2. 📅 Monthly Sales Trends
    - Highest sales occurred in December – likely due to year-end promotions
    - February, March, May, and September tend to be lower – these can be areas of improvement
+     
    💡 Design promotional strategies for months with lower sales.
 
 3. 🌎 Geographic Performance
    - Nigeria and Australia dominate global revenue
    - Countries such as China and the United Kingdom (UK) show growth potential
+     
    💡 To drive growth, the company can focus on expanding into high-potential or niche markets, including Brazil and even unconventional regions like Antarctica.
 
 4. 🛍️ Category Analysis
    - Books and Electronics contribute the most to revenue
    - Apparel and Groceries are stable and cost-efficient
    - Home Decor is the lowest-performing category
+     
    💡 Prioritize product development and campaigns in high-profit categories.
 
 5. 💳 Payment Method Insight
    - Customers prefer Bank Transfer (30%) and Mobile Money (26%)
    - Cash (21%) is relatively low — reflecting good digital adoption
+     
    💡 Ensure digital payment system integration remains optimal.
 
 6. 📅 Weekly Revenue Trends
    - Wednesday and Friday have the highest daily revenue
    - Tuesday is the slowest — a good time for customer education or promotions
+     
    💡 Ensure digital payment system integration remains optimal.
 
 7. 🚨 Order Completion & Returns
    - 52% of orders are completed, while 48% are returned — a very high rate
+     
    💡 Evaluate product quality, shipping process, and customer communication.
 
