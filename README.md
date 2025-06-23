@@ -54,7 +54,7 @@
 
 Sales from January 2024 – December 2025
 
-<img width="758" alt="Screenshot 2025-06-20 211030" src="https://github.com/user-attachments/assets/f6d1b3d1-1265-4818-9212-2d8068e8cf8c" />
+<img width="759" alt="image" src="https://github.com/user-attachments/assets/8ec0d8d2-3479-49a6-90a4-23ff05ddb4e1" />
 
 
 1. 📈 KPI
